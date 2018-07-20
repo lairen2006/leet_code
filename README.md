@@ -9,13 +9,13 @@
 ## Record
 2018-07-16 更新数组部分（已完成75题）
 
-https://link.zhihu.com/?target=https%3A//github.com/lairen2006/leet_code/blob/master/array.ipynb
+[戳这里](https://link.zhihu.com/?target=https%3A//github.com/lairen2006/leet_code/blob/master/array.ipynb)
 
 
 
 ## TO DO LIST
 
-[]leetcode-array
+[ ]leetcode-array
 
 []leetcode-dynamic programming
 
