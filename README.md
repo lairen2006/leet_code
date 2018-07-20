@@ -15,9 +15,9 @@
 
 ## TO DO LIST
 
-[ ]leetcode-array
+- [ ]leetcode-array
 
-[]leetcode-dynamic programming
+-[ ]leetcode-dynamic programming
 
 []leetcode-string
 []leetcode-math
